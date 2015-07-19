@@ -45,7 +45,7 @@
     "h": 1000,
     // Number of lines with hits. Old lines will be pushed out.
     // Количество строк с попаданиями. Устаревшие данные выталкиваются.
-    "lines": 0,
+    "lines": 6,
     // Log direction: up - lines will be added from up to down, down - from down to up.
     // Направление лога: up - строки добавляются сверху, down - снизу.
     "direction": "down",
